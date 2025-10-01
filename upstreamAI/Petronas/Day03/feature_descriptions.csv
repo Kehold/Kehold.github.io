@@ -1,0 +1,14 @@
+Feature,Description,Units
+GR,Gamma Ray (API) - measures natural radioactivity,API
+RHOB,Bulk Density (g/cc) - measures formation density,g/cc
+NPHI,Neutron Porosity - measures hydrogen index,v/v
+DT,Sonic Travel Time (μs/ft) - measures acoustic velocity,μs/ft
+RT,Resistivity (ohm-m) - measures formation resistivity,ohm-m
+AI,Acoustic Impedance - seismic-derived property,g/cc*m/s
+VP_VS,Vp/Vs Ratio - seismic velocity ratio,ratio
+SI,Shear Impedance - seismic-derived property,g/cc*m/s
+POROSITY,Porosity (%) - void space in rock,fraction
+PERMEABILITY,Permeability (mD) - ability to transmit fluids,mD
+PORE_PRESSURE,Pore Pressure (psi) - fluid pressure in pores,psi
+YOUNGS_MODULUS,Young's Modulus (GPa) - rock stiffness,GPa
+POISSONS_RATIO,Poisson's Ratio - rock deformation characteristic,ratio
