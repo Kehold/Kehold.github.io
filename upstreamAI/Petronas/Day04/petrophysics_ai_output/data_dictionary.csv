@@ -1,0 +1,10 @@
+Column_Name,Description,Units,Range
+DEPTH,Depth measurement (units),m or ft,0-1000
+GR,Gamma Ray measurement (API units),API,20-150 API
+RT,True Resistivity (ohm-m),ohm-m,0.5-20 ohm-m
+NPHI,Neutron Porosity (v/v),v/v,0.05-0.45 v/v
+RHOB,Bulk Density (g/cc),g/cc,1.8-2.65 g/cc
+PE,Photoelectric Factor (barns/electron),barns/electron,0.01-0.15 barns/electron
+LITHOLOGY,"Lithology code: 0=Sandstone, 1=Shale, 2=Carbonate",code,"0,1,2"
+POROSITY,Calculated porosity (v/v),v/v,0.01-0.40 v/v
+SW,Water Saturation (fraction),fraction,0.10-1.00 fraction
