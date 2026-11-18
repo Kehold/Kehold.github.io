@@ -1,0 +1,11 @@
+tensorflow-cpu>=2.16; sys_platform == "linux" or sys_platform == "win32"
+tensorflow>=2.16; sys_platform == "darwin"
+keras>=3.3
+protobuf>=6.31.1,<7
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+plotly
+streamlit>=1.40
